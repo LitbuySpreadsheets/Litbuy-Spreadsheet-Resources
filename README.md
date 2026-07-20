@@ -1,4 +1,4 @@
-# Litbuy Spreadsheet Resources
+# LitbuySpreadsheets
 
 Welcome to my GitHub profile.
 
